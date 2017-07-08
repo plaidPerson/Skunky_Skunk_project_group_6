@@ -13,5 +13,7 @@ public class Roll {
 	public int getLastTotal(){
 		return lastTotal; 
 	}
+	//System.out.println("df");
+	
 
 }
